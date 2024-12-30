@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akashlathiya16
-- 👀 I’m interested in Java programming, Web Devlopment, Android Devlopment 
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on Web Devlopment
+- 👀 I’m interested in app devlopment 
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on Mobile App Development  
 - 📫 How to reach me @akashlathiya016@gmail.com
 
 <!---
