@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akashlathiya16
+- 👋 Hi, I’m @Akash_16
 - 👀 I’m interested in app devlopment 
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Mobile App Development  
