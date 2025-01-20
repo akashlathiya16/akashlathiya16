@@ -26,7 +26,9 @@
 
 
 ---
+ <!-- COMMENT
 [![](https://visitcount.itsvg.in/api?id=akashlathiya16&icon=5&color=0)](https://visitcount.itsvg.in)
-
+  -->
+![Visitor Count](https://profile-counter.glitch.me/akashlathiya16/count.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
