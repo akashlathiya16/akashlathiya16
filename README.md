@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Hey, I’m Akash Lathiya!<br>🛠️ Building: High-performance mobile apps with React Native.<br>👾 Collaboration Mode: Open-source projects & disruptive app ideas.<br>📡 Current Hack: Diving into TypeScript, GraphQL, and performance optimization.<br>🧠 Brain Pick Topics: React Native, JavaScript, and multi-platform dev.<br>🔐 Need Backup: Advanced React Native and backend wizardry.<br>⚡ Fun Glitch: Obsessed with hacking elegant UIs and breaking into new tech!<br><br>Let me know if this hits the right vibe or needs more tweaks! 🕶️✨<br><br>
+💻 Hey, I’m Akash Lathiya!<br>🛠️ Building:  High-performance mobile apps with React Native.<br>👾 Collaboration Mode:  Open-source projects & disruptive app ideas.<br>📡 Current Hack:  Diving into TypeScript, GraphQL, and performance optimization.<br>🧠 Brain Pick Topics:  React Native, JavaScript, and multi-platform dev.<br>🔐 Need Backup:  Advanced React Native and backend wizardry.<br>⚡ Fun Glitch:  Obsessed with hacking elegant UIs and breaking into new tech!<br><br>Let me know if this hits the right vibe or needs more tweaks! 🕶️✨<br><br>
 
 <div align="center">
 
